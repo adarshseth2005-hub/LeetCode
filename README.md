@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
