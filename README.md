@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
