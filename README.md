@@ -12,15 +12,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,8 +44,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
