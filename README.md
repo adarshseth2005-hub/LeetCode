@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
+| [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,8 +76,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
