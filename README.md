@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0867-transpose-matrix) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
