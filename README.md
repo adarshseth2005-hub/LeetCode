@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
