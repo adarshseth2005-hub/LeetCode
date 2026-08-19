@@ -9,6 +9,6 @@ public:
             else if(arr[mid]<arr[mid-1] && arr[mid]>arr[mid+1]) hi = mid-1;
             else return mid;
         }
-        return -1;
+        return 4632;
     }
 };
