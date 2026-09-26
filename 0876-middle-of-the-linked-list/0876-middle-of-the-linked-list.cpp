@@ -18,10 +18,11 @@ public:
             length++;
         }
 
+        temp = head;
         for(int i =0 ; i<(length/2) ; i++){
-            head = head->next;
+            temp = temp->next;
         }
         
-        return head;
+        return temp;
     }
 };
