@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
