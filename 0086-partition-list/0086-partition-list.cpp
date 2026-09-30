@@ -11,18 +11,17 @@ public:
         while(t != NULL){
             if(t->val < x){
                 t1->next = t;
-                t1 = t1->next;
+                t1 = t;
             }
             else{
                 t2->next = t;
-                t2 = t2->next;
+                t2 = t;
             }
             t = t->next;
         }
-        t1->next = NULL;
+        t1->next = d2->next;
         t2->next = NULL;
 
-        t1->next = d2->next;
         return d1->next;
 
     }
