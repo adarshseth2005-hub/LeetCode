@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
+| [2326-spiral-matrix-iv](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/adarshseth2005-hub/LeetCode/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
