@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0493-reverse-pairs) |
 ## Matrix
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0189-rotate-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adarshseth2005-hub/LeetCode/tree/master/0876-middle-of-the-linked-list) |
